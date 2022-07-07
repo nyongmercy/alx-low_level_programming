@@ -1,1 +1,3 @@
-My first Project on Low level language C
+#ALX LOW LEVEL PROGRAMMING 
+
+This project covers my first low level programming language C
