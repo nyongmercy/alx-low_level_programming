@@ -1,4 +1,5 @@
-#include "holberton.h"
+#include "main.h"
+
 /**
  * _memcpy - function that copies memory area.
  * @dest: input
