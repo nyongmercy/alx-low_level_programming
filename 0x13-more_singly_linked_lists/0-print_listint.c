@@ -1,13 +1,9 @@
-/**
- * File: 0-print_listint.c
- * Auth: Brennan D Baraban
- */
-
 #include "lists.h"
 #include <stdio.h>
 
 /**
- * print_listint - Prints all the elements of a listint_t list.
+ * print_listint - a function that prints all the elements of a list.
+ *
  * @h: A pointer to the head of the list_t list.
  *
  * Return: The number of nodes in the list_t list.
